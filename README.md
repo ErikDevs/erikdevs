@@ -17,18 +17,8 @@
 ---
 
 ### 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erikdevs&show_icons=true&theme=radical)  
+![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erikdevs&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erikdevs&layout=compact&theme=radical)  
-
----
-
-### 🔥 **GitHub Streak**  
-![GitHub Streak](https://streak-stats.demolab.com?user=erikdevs&theme=dark)  
-
----
-
-### 📈 **GitHub Activity Graph**  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=erikdevs&theme=github-dark)  
 
 ---
 
@@ -36,15 +26,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
 
----
-
-### 🏆 **GitHub Trophy**  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=erikdevs&theme=darkhub)  
-
----
-
-### 👀 **Profile Visitors**  
-![Profile Views](https://komarev.com/ghpvc/?username=erikdevs&label=Profile%20views&color=0e75b6&style=flat)  
-
----
-
+![GitHub Streak](https://streak-stats.demolab.com?user=erikdevs&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=erikdevs&theme=github-dark)
+![Hello World](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Profile Views](https://komarev.com/ghpvc/?username=erikdevs&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=erikdevs&theme=darkhub)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=erikdevs&theme=darkhub)
